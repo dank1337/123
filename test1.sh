@@ -1,13 +1,4 @@
-echo 'форматируем'
-(
-  echo x;
-  echo z;
-  echo y;
-  echo y;
-) | gdisk /dev/sda
-  
-
-echo '2.4 создание разделов'
+echo '2.4 Е„Г®Г§Г¤Е•Г­ДЌДє Д‘Е•Г§Г¤ДєГ«Г®Гў'
 (
   echo n;
   echo;
